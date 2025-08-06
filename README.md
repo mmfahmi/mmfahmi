@@ -51,7 +51,7 @@ I publish open research on topics including:
 
 ## ✨ Get in Touch
 
-- 🌍 Personal site: [DeceitLab.com](deceitlab.com)
+- 🌍 Personal site: [DeceitLab.com](https://deceitlab.com)
 - 📧 Email: [yato.dev.vive@example.com](mailto:yato.dev.vive@gmail.com)  
 
 ---
