@@ -1,18 +1,48 @@
-👤 About Me
-Fahmi mm (@mmfahmi)
-Cybersecurity and Threat Intelligence Researcher focused on scam/phishing detection, OSINT, and automation. I build sandboxed analysis tools and intelligence pipelines to uncover and mitigate scam campaigns.
+<!-- Banner/Header -->
+<h1 align="center">👋 Hello, I'm Fahmi (<a href="https://github.com/mmfahmi">mmfahmi</a>)</h1>
+<p align="center"><em>Cybersecurity & Threat Intelligence Researcher focused on scam detection, OSINT automation, and sandboxed analysis tooling.</em></p>
 
-🔧 Technical Expertise:
-Scam & URL Threat Analysis — Deep metadata extraction (WHOIS, DNS, headers), YARA-based detection, and HTML/JavaScript risk scoring.
+---
 
-Browser Stealth Automation — Playwright-based scraping with advanced fingerprinting to bypass bot detection systems (e.g. Cloudflare, Imperva).
+## 🚀 About Me
 
-Security-Sandboxed Deployment — Tools run inside Docker containers with non‑root permissions, isolated runtimes, rate limiting, and hardened configurations.
+- 🔍 Focusing in scam and phishing analysis, OSINT, and threat research.
+- 🛠️ Creator of sandboxed tools like **url‑analyzer** for secure metadata extraction and YARA-based threat detection.
+- 🌐 Learning on **Docker sandboxing**, **FastAPI**, **Playwright stealth automation**, and **CI/CD deployment** (e.g. GCP Cloud Run).
+- 🧠 Passionate about bridging intelligence workflows with operational tooling for actionable results.
 
-API + CLI Interfaces — FastAPI-powered REST APIs (with Swagger docs), batch processing, and interactive CLI clients.
+---
 
-Cloud & CI/CD Integration — Automated GitHub Actions pipelines to deploy tools on GCP (Cloud Run, VM, GKE) with autoscaling and HTTPS support.
+## 🏷️ Tech Stack & Tools
 
-🚀 Highlight Project:
-url‑analyzer — A robust sandbox to analyze suspicious URLs. Combines metadata scraping, Playwright fallback, batch input processing, and YARA rule scanning to detect threats—designed for secure, scalable deployment via Docker and GCP. CLI and API access supported.
+| Area                      | Skills & Tools |
+|---------------------------|----------------|
+| 🧪 Threat Detection        | YARA rules, risk scoring, HTTP/DNS/WHOIS metadata |
+| 🤖 Automation & Evasion    | Playwright (fingerprints, WebGL spoof), Python |
+| 🚀 APIs & Interfaces       | FastAPI, CLI, batch processing (TXT/CSV/JSON) |
+| 🐳 Containerization        | Docker, sandbox security (non-root, isolated FS) |
+| ☁️ Cloud & CI/CD Deployment| GitHub Actions, deploy to GCP (VM, Cloud Run, GKE) |
+
+---
+
+## 📊 GitHub Stats
+
+[![Fahmi’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmfahmi&show_icons=true)](https://github.com/mmfahmi)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmfahmi&layout=compact)](https://github.com/mmfahmi)
+
+---
+
+## 🌟 Featured Projects
+
+- **url-analyzer** – A Docker-based sandbox to safely analyze suspicious URLs, extract rich metadata, and detect threats via built-in YARA scanning. Supports stealth browsing and containerized, isolation-first execution.
+- *(You can highlight other tools/repositories here, with 2–3 bullet lines linking to each.)*
+
+---
+
+## ✨ Get in Touch
+
+- 📧 Email: [your.email@example.com](mailto:yato.dev.vive@gmail.com)  
+- 💬 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname) *(optional)*  
+
+---
 
