@@ -41,8 +41,7 @@
 
 ## ✨ Get in Touch
 
-- 📧 Email: [your.email@example.com](mailto:yato.dev.vive@gmail.com)  
-- 💬 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname) *(optional)*  
+- 📧 Email: [yato.dev.vive@example.com](mailto:yato.dev.vive@gmail.com)  
 
 ---
 
