@@ -43,12 +43,6 @@ I publish open research on topics including:
 
 ---
 
-## 🌟 Featured Projects
-
-- **url-analyzer** – A Docker-based sandbox to safely analyze suspicious URLs, extract rich metadata, and detect threats via built-in YARA scanning. Supports stealth browsing and containerized, isolation-first execution.
-
----
-
 ## ✨ Get in Touch
 
 - 🌍 Personal site: [DeceitLab.com](https://deceitlab.com)
