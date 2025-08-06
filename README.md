@@ -4,6 +4,17 @@
 
 ---
 
+##🌐 DeceitLab – Research by Yato
+Visit my website: [DeceitLab™](https://deceitlab.com/)
+
+I publish open research on topics including:
+
+- Financial fraud detection techniques
+- Android botnet architectures and defense strategies
+- Server‑Side Template Injection (SSTI) risk mapping and template engine behavior
+
+---
+
 ## 🚀 About Me
 
 - 🔍 Focusing in scam and phishing analysis, OSINT, and threat research.
@@ -35,12 +46,12 @@
 ## 🌟 Featured Projects
 
 - **url-analyzer** – A Docker-based sandbox to safely analyze suspicious URLs, extract rich metadata, and detect threats via built-in YARA scanning. Supports stealth browsing and containerized, isolation-first execution.
-- *(You can highlight other tools/repositories here, with 2–3 bullet lines linking to each.)*
 
 ---
 
 ## ✨ Get in Touch
 
+- 🌍 Personal site: [DeceitLab.com](deceitlab.com)
 - 📧 Email: [yato.dev.vive@example.com](mailto:yato.dev.vive@gmail.com)  
 
 ---
