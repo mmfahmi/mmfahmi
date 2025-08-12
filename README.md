@@ -18,7 +18,6 @@ I publish open research on topics including:
 ## 🚀 About Me
 
 - 🔍 Focusing in scam and phishing analysis, OSINT, and threat research.
-- 🛠️ Creator of sandboxed tools like **url‑analyzer** for secure metadata extraction and YARA-based threat detection.
 - 🌐 Learning on **Docker sandboxing**, **FastAPI**, **Playwright stealth automation**, and **CI/CD deployment** (e.g. GCP Cloud Run).
 - 🧠 Passionate about bridging intelligence workflows with operational tooling for actionable results.
 
