@@ -38,6 +38,7 @@ I publish open research on topics including:
 ## 📊 GitHub Stats
 
 [![Fahmi’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmfahmi&show_icons=true)](https://github.com/mmfahmi)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmfahmi&layout=compact)](https://github.com/mmfahmi)
 
 ---
 
